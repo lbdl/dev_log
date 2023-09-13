@@ -31,6 +31,12 @@ this fails and only the top path gets mounted
 have to use the `subPath` syntax
 
 * docs recommend that don't use subPath in productions anyway
+
+## PVC's and PV's
+
+There is 1--1 mapping between PV and PVS  and a direct mapping between the PV and the StorageClass.
+So then for 3 stores such as 
+- 
  
 ## initContainers
 
@@ -50,5 +56,6 @@ sidecar app. doesn't like top level folders in the repo, i.e. a structure like
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMjEwNjY2LDkwMDYwMDI1XX0=
+eyJoaXN0b3J5IjpbMzg0MTE1MDY2LDYxMDIxMDY2Niw5MDA2MD
+AyNV19
 -->
