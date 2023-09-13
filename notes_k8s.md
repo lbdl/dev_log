@@ -38,17 +38,17 @@ handy for git clones etc
 especially using `git-sync` as a sidecar app
 ## git-sync
 
-side car, doesn't like top level folders in the repo, i.e. a structure like
+sidecar app. doesn't like top level folders in the repo, i.e. a structure like
 ```
 .
 |
-|_src
-	|_ file1
-	|_ file2
-	|_ ...
+|__src
+	|__ file1
+	|__ file2
+	|__ ...
 ```
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzkzNDkyNyw5MDA2MDAyNV19
+eyJoaXN0b3J5IjpbNjEwMjEwNjY2LDkwMDYwMDI1XX0=
 -->
