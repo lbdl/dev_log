@@ -20,6 +20,7 @@ cant just do
 ```
 this fails and only the top path gets mounted.
 
+* docs recommend that dont use subPath in productions anyway
  
 ## Create files and folders
 
@@ -156,5 +157,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODgwMjgxNDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NTI2ODM4NDcsLTEyODgwMjgxNDJdfQ
+==
 -->
