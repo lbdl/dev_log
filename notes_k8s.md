@@ -4,7 +4,11 @@
 
 dev log notes on gan deployment
 
-##
+## mounting logs, data etc
+
+just make a seperate pvc for each is the recommended way
+
+__NOTE__ we are _currently_ using a local store on micrk8s but really this can be replaced with some form of block storage via the config ideally i suppose this would be some kind of fibre channel
 
 
 # subPaths
@@ -46,5 +50,5 @@ side car, doesn't like top level folders in the repo, i.e. a structure like
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzUyOTc4OSw5MDA2MDAyNV19
+eyJoaXN0b3J5IjpbLTYxMjk1MTE0Nyw5MDA2MDAyNV19
 -->
