@@ -24,7 +24,15 @@ have to use the `subPath` syntax
 
 * docs recommend that don't use subPath in productions anyway
  
-## ini
+## initContainers
+
+handy for git clones etc
+especially using `git-sync` as a sidecar app
+## git-sync
+
+side car, doesn't like top level folders in the repo, i.e. a structure like
+```
+-src
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -159,6 +167,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY0MTg1MzIsLTEyODgwMjgxNDJdfQ
-==
+eyJoaXN0b3J5IjpbMTMyMzg2NTIxMywtMTI4ODAyODE0Ml19
 -->
