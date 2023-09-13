@@ -32,7 +32,10 @@ especially using `git-sync` as a sidecar app
 
 side car, doesn't like top level folders in the repo, i.e. a structure like
 ```
--src
+.
+|
+|_src
+	|_ file1
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -167,5 +170,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzg2NTIxMywtMTI4ODAyODE0Ml19
+eyJoaXN0b3J5IjpbMjA5NTk4MzQ1OSwtMTI4ODAyODE0Ml19
 -->
