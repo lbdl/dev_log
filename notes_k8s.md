@@ -92,9 +92,11 @@ sidecar app. doesn't like top level folders in the repo, i.e. a structure like
 	|__ ...
 ```
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
-> Written with [StackEdit](https://stackedit.io/).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjcwODY3NjcsNzM5NDMzMjc2LC0xNz
-AzOTA4MjI5LC0xMDE1NjY2NjU3LDExMzA2NjY0MDAsLTE1MjU4
-MzQyOTYsNjEwMjEwNjY2LDkwMDYwMDI1XX0=
+eyJoaXN0b3J5IjpbMTczMjY5MzA0MSwtMTI2NzA4Njc2Nyw3Mz
+k0MzMyNzYsLTE3MDM5MDgyMjksLTEwMTU2NjY2NTcsMTEzMDY2
+NjQwMCwtMTUyNTgzNDI5Niw2MTAyMTA2NjYsOTAwNjAwMjVdfQ
+==
 -->
