@@ -28,7 +28,9 @@ cant just do
 ```
 this fails and only the top path gets mounted
 
-have to use the `subPath` syntax
+have to use the `subPath` syntax.
+
+This will create the paths that the `ENV_VAR`
 
 * docs recommend that don't use subPath in productions anyway
 
@@ -54,6 +56,6 @@ sidecar app. doesn't like top level folders in the repo, i.e. a structure like
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDY2NjQwMCwtMTUyNTgzNDI5Niw2MT
-AyMTA2NjYsOTAwNjAwMjVdfQ==
+eyJoaXN0b3J5IjpbMTA2MDMxNDg1OCwxMTMwNjY2NDAwLC0xNT
+I1ODM0Mjk2LDYxMDIxMDY2Niw5MDA2MDAyNV19
 -->
