@@ -65,7 +65,10 @@ we end up with the path built up on the host of:
 |__usr
 	|__local
 		|__mount
-			|__k
+			|__k8s
+				|__src
+					|__ci
+						|__release
 ```
 
 ## PVC's and PV's
@@ -90,7 +93,7 @@ sidecar app. doesn't like top level folders in the repo, i.e. a structure like
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTgwMTM3NiwtMTcwMzkwODIyOSwtMT
-AxNTY2NjY1NywxMTMwNjY2NDAwLC0xNTI1ODM0Mjk2LDYxMDIx
-MDY2Niw5MDA2MDAyNV19
+eyJoaXN0b3J5IjpbMjE5OTk0ODI4LC0xNzAzOTA4MjI5LC0xMD
+E1NjY2NjU3LDExMzA2NjY0MDAsLTE1MjU4MzQyOTYsNjEwMjEw
+NjY2LDkwMDYwMDI1XX0=
 -->
