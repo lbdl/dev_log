@@ -6,12 +6,12 @@ dev log notes on gan deployment
 
 ## mounting logs, data etc
 
-just make a seperate pvc for each is the recommended way
+just make a seperate pvc for each is the recommended way.
 
 __NOTE__ we are _currently_ using a local store on micrk8s but really this can be replaced with some form of block storage via the config ideally i suppose this would be some kind of fibre channel mounted block store.
 
 
-# subPaths
+# subPaths and subPathExpr
 
 see [k8s docs](https://kubernetes.io/docs/concepts/storage/volumes/#using-subpath)
 
@@ -94,7 +94,7 @@ sidecar app. doesn't like top level folders in the repo, i.e. a structure like
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5NDMzMjc2LC0xNzAzOTA4MjI5LC0xMD
-E1NjY2NjU3LDExMzA2NjY0MDAsLTE1MjU4MzQyOTYsNjEwMjEw
-NjY2LDkwMDYwMDI1XX0=
+eyJoaXN0b3J5IjpbLTEyNjcwODY3NjcsNzM5NDMzMjc2LC0xNz
+AzOTA4MjI5LC0xMDE1NjY2NjU3LDExMzA2NjY0MDAsLTE1MjU4
+MzQyOTYsNjEwMjEwNjY2LDkwMDYwMDI1XX0=
 -->
