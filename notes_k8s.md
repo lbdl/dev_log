@@ -32,7 +32,10 @@ have to use the `subPath` syntax.
 
 This will create the paths that the `ENV_VAR` expands to onto the underlying file storage and mount this to the `mountPath`
 
-so then given a `PV` that uses a path like `/usr/local/mount/k8s/src` on a `local` store and a `volumeMount` on a volum 
+so then given a `PV` that uses a path like `/usr/local/mount/k8s/src` on a `local` store and a `volumeMount` on a `PVC` from that `PV` using a `subPathExpr` like this: 
+```yaml
+
+```
 
 ## PVC's and PV's
 
@@ -56,6 +59,6 @@ sidecar app. doesn't like top level folders in the repo, i.e. a structure like
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkwNTY5ODksMTEzMDY2NjQwMCwtMT
-UyNTgzNDI5Niw2MTAyMTA2NjYsOTAwNjAwMjVdfQ==
+eyJoaXN0b3J5IjpbLTMzNzM4NDgwMSwxMTMwNjY2NDAwLC0xNT
+I1ODM0Mjk2LDYxMDIxMDY2Niw5MDA2MDAyNV19
 -->
