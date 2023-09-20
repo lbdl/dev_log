@@ -93,10 +93,16 @@ sidecar app. doesn't like top level folders in the repo, i.e. a structure like
 ```
 just fails silently or rather if you do `ls` then this doesn't show the file's just the hash. anyway. dont
 
+## dns
+
+[dns debugging](https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/)
+
+`kk exec -it test-observer --container sh-container -- cat /etc/resolv.conf`
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjY5MzA0MSwtMTI2NzA4Njc2Nyw3Mz
-k0MzMyNzYsLTE3MDM5MDgyMjksLTEwMTU2NjY2NTcsMTEzMDY2
-NjQwMCwtMTUyNTgzNDI5Niw2MTAyMTA2NjYsOTAwNjAwMjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE5MTE3NjQwOTgsMTczMjY5MzA0MSwtMT
+I2NzA4Njc2Nyw3Mzk0MzMyNzYsLTE3MDM5MDgyMjksLTEwMTU2
+NjY2NTcsMTEzMDY2NjQwMCwtMTUyNTgzNDI5Niw2MTAyMTA2Nj
+YsOTAwNjAwMjVdfQ==
 -->
