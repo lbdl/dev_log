@@ -106,9 +106,9 @@ see (docs)[https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-p
 need a secret for the login auth stuff for a private registry, i.e `build.uat.gan`
 
 * login: `docker login ...`
-  generates a `~/.docker/config.json`
+  * generates a `~/.docker/config.json`
 * generate a secret from this file
-  `kubectl create secret generic regcred --from-file=.dockerconfigjson=~/.docker/config.json --type=kubernetes.io/dockerconfigjson -o yaml`
+  * `kubectl create secret generic regcred --from-file=.dockerconfigjson=~/.docker/config.json --type=kubernetes.io/dockerconfigjson -o yaml`
   NB: `-o yaml` just outputs the yml yo `stdout`
  * use the `regcred` in a pod: 
 ```yaml
@@ -125,7 +125,7 @@ spec:
 ```
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTAzNzIyNSwtMTIxNTE4Mzc0MywtMT
+eyJoaXN0b3J5IjpbLTMzMDY5MTY3MSwtMTIxNTE4Mzc0MywtMT
 kxMTc2NDA5OCwxNzMyNjkzMDQxLC0xMjY3MDg2NzY3LDczOTQz
 MzI3NiwtMTcwMzkwODIyOSwtMTAxNTY2NjY1NywxMTMwNjY2ND
 AwLC0xNTI1ODM0Mjk2LDYxMDIxMDY2Niw5MDA2MDAyNV19
