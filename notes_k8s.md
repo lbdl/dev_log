@@ -99,10 +99,17 @@ just fails silently or rather if you do `ls` then this doesn't show the file's j
 
 `kk exec -it test-observer --container sh-container -- cat /etc/resolv.conf`
 
+## registries
 
+see (docs)[https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/]
+
+need a secret for the login auth stuff for a private registry, i.e `build.uat.gan`
+
+* login: `docker login ...`
+      generates a `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE3NjQwOTgsMTczMjY5MzA0MSwtMT
-I2NzA4Njc2Nyw3Mzk0MzMyNzYsLTE3MDM5MDgyMjksLTEwMTU2
-NjY2NTcsMTEzMDY2NjQwMCwtMTUyNTgzNDI5Niw2MTAyMTA2Nj
-YsOTAwNjAwMjVdfQ==
+eyJoaXN0b3J5IjpbLTIxMTI1MTY1MzcsLTE5MTE3NjQwOTgsMT
+czMjY5MzA0MSwtMTI2NzA4Njc2Nyw3Mzk0MzMyNzYsLTE3MDM5
+MDgyMjksLTEwMTU2NjY2NTcsMTEzMDY2NjQwMCwtMTUyNTgzND
+I5Niw2MTAyMTA2NjYsOTAwNjAwMjVdfQ==
 -->
