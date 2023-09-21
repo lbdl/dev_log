@@ -108,10 +108,10 @@ need a secret for the login auth stuff for a private registry, i.e `build.uat.ga
 * login: `docker login ...`
   generates a `~/.docker/config.json`
 * generate a secret from this file
-  
+  `kubectl create secret generic regcred --from-file=.dockerconfigjson=~/.docker/config.json --type=kubernetes.io/dockerconfigjson -o yaml`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUxODM3NDMsLTE5MTE3NjQwOTgsMT
-czMjY5MzA0MSwtMTI2NzA4Njc2Nyw3Mzk0MzMyNzYsLTE3MDM5
-MDgyMjksLTEwMTU2NjY2NTcsMTEzMDY2NjQwMCwtMTUyNTgzND
-I5Niw2MTAyMTA2NjYsOTAwNjAwMjVdfQ==
+eyJoaXN0b3J5IjpbMTE0NDc5NDMzNiwtMTIxNTE4Mzc0MywtMT
+kxMTc2NDA5OCwxNzMyNjkzMDQxLC0xMjY3MDg2NzY3LDczOTQz
+MzI3NiwtMTcwMzkwODIyOSwtMTAxNTY2NjY1NywxMTMwNjY2ND
+AwLC0xNTI1ODM0Mjk2LDYxMDIxMDY2Niw5MDA2MDAyNV19
 -->
