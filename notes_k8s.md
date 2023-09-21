@@ -108,8 +108,8 @@ need a secret for the login auth stuff for a private registry, i.e `build.uat.ga
 * login: `docker login ...`
   * generates a `~/.docker/config.json`
 * generate a secret from this file
-  * `kubectl create secret generic regcred --from-file=.dockerconfigjson=~/.docker/config.json --type=kubernetes.io/dockerconfigjson -o yaml`
-  NB: `-o yaml` just outputs the yml yo `stdout`
+  * `kubectl create secret generic regcred --from-file=.dockerconfigjson=~/.docker/config.json --type=kubernetes.io/dockerconfigjson --dry-run=server -o yaml`
+  NB: `--dry-run=server -o yaml` just outputs the yml to `stdout` and ensures its not actually created
  * use the `regcred` in a pod: 
 ```yaml
 apiVersion: v1
@@ -124,9 +124,11 @@ spec:
   - name: regcred
 ```
  
+the actual file should look similar to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDY5MTY3MSwtMTIxNTE4Mzc0MywtMT
-kxMTc2NDA5OCwxNzMyNjkzMDQxLC0xMjY3MDg2NzY3LDczOTQz
-MzI3NiwtMTcwMzkwODIyOSwtMTAxNTY2NjY1NywxMTMwNjY2ND
-AwLC0xNTI1ODM0Mjk2LDYxMDIxMDY2Niw5MDA2MDAyNV19
+eyJoaXN0b3J5IjpbLTc1NTc4NzkzMywtMzMwNjkxNjcxLC0xMj
+E1MTgzNzQzLC0xOTExNzY0MDk4LDE3MzI2OTMwNDEsLTEyNjcw
+ODY3NjcsNzM5NDMzMjc2LC0xNzAzOTA4MjI5LC0xMDE1NjY2Nj
+U3LDExMzA2NjY0MDAsLTE1MjU4MzQyOTYsNjEwMjEwNjY2LDkw
+MDYwMDI1XX0=
 -->
