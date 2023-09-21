@@ -124,11 +124,23 @@ spec:
   - name: regcred
 ```
  
-the actual file should look similar to 
+the actual  creds file should look similar to: 
+```yaml
+apiVersion: v1
+data:
+  .dockerconfigjson: ewoJImF1dGhzIjogewoJCSJidWlsZC51YXQuZ2FuIjoge30sCgkJImh0dHBzOi8vaW5kZXguZG9ja2VyLmlvL3YxLyI6IHt9Cgl9LAoJImNyZWRzU3RvcmUiOiAiZGVza3RvcCIsCgkiZXhwZXJpbWVudGFsIjogImRpc2FibGVkIiwKCSJjdXJyZW50Q29udGV4dCI6ICJkZXNrdG9wLWxpbnV4IiwKCSJwbHVnaW5zIjogewoJCSIteC1jbGktaGludHMiOiB7CgkJCSJlbmFibGVkIjogInRydWUiCgkJfQoJfQp9
+kind: Secret
+metadata:
+  creationTimestamp: "2023-09-21T10:43:24Z"
+  name: regcred
+  namespace: default
+  selfLink: /api/v1/namespaces/default/secrets/regcred
+  uid: 63e37d67-71f4-4360-9ea1-2cc4866b84be
+type: kubernetes.io/dockerconfigjson ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTc4NzkzMywtMzMwNjkxNjcxLC0xMj
-E1MTgzNzQzLC0xOTExNzY0MDk4LDE3MzI2OTMwNDEsLTEyNjcw
-ODY3NjcsNzM5NDMzMjc2LC0xNzAzOTA4MjI5LC0xMDE1NjY2Nj
-U3LDExMzA2NjY0MDAsLTE1MjU4MzQyOTYsNjEwMjEwNjY2LDkw
-MDYwMDI1XX0=
+eyJoaXN0b3J5IjpbNDQzOTUxMzUyLC0zMzA2OTE2NzEsLTEyMT
+UxODM3NDMsLTE5MTE3NjQwOTgsMTczMjY5MzA0MSwtMTI2NzA4
+Njc2Nyw3Mzk0MzMyNzYsLTE3MDM5MDgyMjksLTEwMTU2NjY2NT
+csMTEzMDY2NjQwMCwtMTUyNTgzNDI5Niw2MTAyMTA2NjYsOTAw
+NjAwMjVdfQ==
 -->
