@@ -136,11 +136,15 @@ metadata:
   namespace: default
   selfLink: /api/v1/namespaces/default/secrets/regcred
   uid: 63e37d67-71f4-4360-9ea1-2cc4866b84be
-type: kubernetes.io/dockerconfigjson ```
+type: kubernetes.io/dockerconfigjson 
+```
+
+also `microk8s` needs to have this insecure registry setup in its own config
+see [configuring private registries](https://microk8s.io/docs/registry-private)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjcxMTEyNywtMzMwNjkxNjcxLC0xMj
-E1MTgzNzQzLC0xOTExNzY0MDk4LDE3MzI2OTMwNDEsLTEyNjcw
-ODY3NjcsNzM5NDMzMjc2LC0xNzAzOTA4MjI5LC0xMDE1NjY2Nj
-U3LDExMzA2NjY0MDAsLTE1MjU4MzQyOTYsNjEwMjEwNjY2LDkw
-MDYwMDI1XX0=
+eyJoaXN0b3J5IjpbNjU5MTcyOTI1LC02NjY3MTExMjcsLTMzMD
+Y5MTY3MSwtMTIxNTE4Mzc0MywtMTkxMTc2NDA5OCwxNzMyNjkz
+MDQxLC0xMjY3MDg2NzY3LDczOTQzMzI3NiwtMTcwMzkwODIyOS
+wtMTAxNTY2NjY1NywxMTMwNjY2NDAwLC0xNTI1ODM0Mjk2LDYx
+MDIxMDY2Niw5MDA2MDAyNV19
 -->
