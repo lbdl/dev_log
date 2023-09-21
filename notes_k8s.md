@@ -101,7 +101,7 @@ just fails silently or rather if you do `ls` then this doesn't show the file's j
 
 ## registries
 
-see (docs)[https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/]
+see [docs on private registries](https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/)
 
 need a secret for the login auth stuff for a private registry, i.e `build.uat.gan`
 
@@ -138,9 +138,9 @@ metadata:
   uid: 63e37d67-71f4-4360-9ea1-2cc4866b84be
 type: kubernetes.io/dockerconfigjson ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzOTUxMzUyLC0zMzA2OTE2NzEsLTEyMT
-UxODM3NDMsLTE5MTE3NjQwOTgsMTczMjY5MzA0MSwtMTI2NzA4
-Njc2Nyw3Mzk0MzMyNzYsLTE3MDM5MDgyMjksLTEwMTU2NjY2NT
-csMTEzMDY2NjQwMCwtMTUyNTgzNDI5Niw2MTAyMTA2NjYsOTAw
-NjAwMjVdfQ==
+eyJoaXN0b3J5IjpbLTY2NjcxMTEyNywtMzMwNjkxNjcxLC0xMj
+E1MTgzNzQzLC0xOTExNzY0MDk4LDE3MzI2OTMwNDEsLTEyNjcw
+ODY3NjcsNzM5NDMzMjc2LC0xNzAzOTA4MjI5LC0xMDE1NjY2Nj
+U3LDExMzA2NjY0MDAsLTE1MjU4MzQyOTYsNjEwMjEwNjY2LDkw
+MDYwMDI1XX0=
 -->
