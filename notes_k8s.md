@@ -107,8 +107,10 @@ need a secret for the login auth stuff for a private registry, i.e `build.uat.ga
 
 * login: `docker login ...`
   generates a `~/.docker/config.json`
+* generate a secret from this file
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIzNjc4OTUsLTE5MTE3NjQwOTgsMT
+eyJoaXN0b3J5IjpbLTEyMTUxODM3NDMsLTE5MTE3NjQwOTgsMT
 czMjY5MzA0MSwtMTI2NzA4Njc2Nyw3Mzk0MzMyNzYsLTE3MDM5
 MDgyMjksLTEwMTU2NjY2NTcsMTEzMDY2NjQwMCwtMTUyNTgzND
 I5Niw2MTAyMTA2NjYsOTAwNjAwMjVdfQ==
