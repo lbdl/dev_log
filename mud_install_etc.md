@@ -18,7 +18,7 @@
 this is pretty broken as it goes, the quickstart docs aren't right. (there is an updated version available [here](https://mud-docs-4u4f02n5n-latticexyz.vercel.app/templates/typescript/getting-started)
 needs also:
 * install `forge`
-* install `mprocs`: <optional only without it 
+* install `mprocs`
 	* `brew install mprocs`
 * install `libusb`
 
@@ -26,10 +26,7 @@ needs also:
 	`pnpm create mud@next <myProject>`
 2. `cd` into the `packages/contracts`
 3. `pnpm build`
-4. `pnpm run dev`
-5. `cd` into `packages/client`
-6. `pnpm run dev`
-7. check `localhost:3000`
+4. 
 
 
 
@@ -49,6 +46,6 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjY0NDg2MSwyMDMzNjczNDc4LC0xMT
-gyOTY3ODA4LC00OTgyODAyMTMsLTIwMjMzMDk3MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5NzQxMzYzODgsMjAzMzY3MzQ3OCwtMT
+E4Mjk2NzgwOCwtNDk4MjgwMjEzLC0yMDIzMzA5NzM0XX0=
 -->
