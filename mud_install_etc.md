@@ -24,9 +24,9 @@ needs also:
 
 1. create a project:
 	`pnpm create mud@next <myProject>`
-2. `cd` into the `packages/contracts`
-3. `pnpm build`
-4. 
+2. `cd` into `myProject`
+3. `mprocs --config ./mprocs.yaml`
+4. goto `localhost:3000`
 
 
 
@@ -46,6 +46,7 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQxMzYzODgsMjAzMzY3MzQ3OCwtMT
-E4Mjk2NzgwOCwtNDk4MjgwMjEzLC0yMDIzMzA5NzM0XX0=
+eyJoaXN0b3J5IjpbLTEwMDI0ODM3OTcsLTE5NzQxMzYzODgsMj
+AzMzY3MzQ3OCwtMTE4Mjk2NzgwOCwtNDk4MjgwMjEzLC0yMDIz
+MzA5NzM0XX0=
 -->
