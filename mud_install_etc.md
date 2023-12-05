@@ -15,9 +15,13 @@
 
 ## MUD
 
-this is pretty broken as it goes, the quickstart docs aren't right.
+this is pretty broken as it goes, the quickstart docs aren't right. (there is an updated version available [here](https://mud-docs-4u4f02n5n-latticexyz.vercel.app/templates/typescript/getting-started)
 needs also:
 * install `forge`
+* install `mprocs`:
+	* `brew install mprocs`
+
+
 
 
 ## `pnpm build mud:next` errors
@@ -35,5 +39,5 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMzMDk3MzRdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODI4MDIxMywtMjAyMzMwOTczNF19
 -->
