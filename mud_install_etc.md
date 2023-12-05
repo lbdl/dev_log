@@ -18,8 +18,9 @@
 this is pretty broken as it goes, the quickstart docs aren't right. (there is an updated version available [here](https://mud-docs-4u4f02n5n-latticexyz.vercel.app/templates/typescript/getting-started)
 needs also:
 * install `forge`
-* install `mprocs`:
+* install `mprocs`: <optional only without it 
 	* `brew install mprocs`
+* install `libusb`
 
 1. create a project:
 	`pnpm create mud@next <myProject>`
@@ -48,6 +49,6 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzY3MzQ3OCwtMTE4Mjk2NzgwOCwtND
-k4MjgwMjEzLC0yMDIzMzA5NzM0XX0=
+eyJoaXN0b3J5IjpbLTIzMjY0NDg2MSwyMDMzNjczNDc4LC0xMT
+gyOTY3ODA4LC00OTgyODAyMTMsLTIwMjMzMDk3MzRdfQ==
 -->
