@@ -17,12 +17,15 @@
 
 this is pretty broken as it goes, the quickstart docs aren't right. (there is an updated version available [here](https://mud-docs-4u4f02n5n-latticexyz.vercel.app/templates/typescript/getting-started) which is also wrong for me at least.
 
-seems to be related to`mprocs` and how its is called by the `pnpm` process. For some reason it seems that it doesnt actually call it or perhaps it just doesn't pick up the config files,  
+seems to be related to`mprocs` and how its is called by the `pnpm` process. For some reason it seems that it doesnt actually call it or perhaps it just doesn't pick up the config files, either way sucky.... 
+
+workaround is:
+ 
 needs also:
 * install `forge`
 * install `mprocs`
 	* `brew install mprocs`
-* install `libusb`
+* install `libusb` (albeit this may be installed already... seems related to GrPC no idea really)
 
 1. create a project:
 	`pnpm create mud@next <myProject>`
@@ -48,7 +51,7 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTQzNzgyMSwtMTk3NDEzNjM4OCwyMD
+eyJoaXN0b3J5IjpbMTEyMDUyMTExMiwtMTk3NDEzNjM4OCwyMD
 MzNjczNDc4LC0xMTgyOTY3ODA4LC00OTgyODAyMTMsLTIwMjMz
 MDk3MzRdfQ==
 -->
