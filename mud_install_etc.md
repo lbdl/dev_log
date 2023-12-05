@@ -15,7 +15,9 @@
 
 ## MUD
 
-this is pretty broken as it goes, the quickstart docs aren't right. (there is an updated version available [here](https://mud-docs-4u4f02n5n-latticexyz.vercel.app/templates/typescript/getting-started)
+this is pretty broken as it goes, the quickstart docs aren't right. (there is an updated version available [here](https://mud-docs-4u4f02n5n-latticexyz.vercel.app/templates/typescript/getting-started) which is also wrong for me at least.
+
+seems to be related to`mprocs` and how its is called by the `pnpm` process. For some reason it seems that it doesnt actually call it or perhaps it just doesn't pick up the config files,  
 needs also:
 * install `forge`
 * install `mprocs`
@@ -46,7 +48,7 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI0ODM3OTcsLTE5NzQxMzYzODgsMj
-AzMzY3MzQ3OCwtMTE4Mjk2NzgwOCwtNDk4MjgwMjEzLC0yMDIz
-MzA5NzM0XX0=
+eyJoaXN0b3J5IjpbLTI0NTQzNzgyMSwtMTk3NDEzNjM4OCwyMD
+MzNjczNDc4LC0xMTgyOTY3ODA4LC00OTgyODAyMTMsLTIwMjMz
+MDk3MzRdfQ==
 -->
