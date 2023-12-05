@@ -25,8 +25,10 @@ needs also:
 	`pnpm create mud@next <myProject>`
 2. `cd` into the `packages/contracts`
 3. `pnpm build`
-4. `cd` into root
-5. 
+4. `pnpm run dev`
+5. `cd` into `packages/client`
+6. `pnpm run dev`
+7. check `localhost:3000`
 
 
 
@@ -46,6 +48,6 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI5Njc4MDgsLTQ5ODI4MDIxMywtMj
-AyMzMwOTczNF19
+eyJoaXN0b3J5IjpbMjAzMzY3MzQ3OCwtMTE4Mjk2NzgwOCwtND
+k4MjgwMjEzLC0yMDIzMzA5NzM0XX0=
 -->
