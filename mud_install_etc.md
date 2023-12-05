@@ -21,6 +21,13 @@ needs also:
 * install `mprocs`:
 	* `brew install mprocs`
 
+1. create a project:
+	`pnpm create mud@next <myProject>`
+2. `cd` into the `packages/contracts`
+3. `pnpm build`
+4. `cd` into root
+5. 
+
 
 
 
@@ -39,5 +46,6 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODI4MDIxMywtMjAyMzMwOTczNF19
+eyJoaXN0b3J5IjpbLTExODI5Njc4MDgsLTQ5ODI4MDIxMywtMj
+AyMzMwOTczNF19
 -->
