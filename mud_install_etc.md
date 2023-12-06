@@ -22,7 +22,7 @@ seems to be related to`mprocs` and how its is called by the `pnpm` process. For 
 workaround is:
  
 needs also:
-* install `forge`
+* install `forge` might not even need this as it should be `pnpm`'d
 * install `mprocs`
 	* `brew install mprocs`
 * install `libusb` (albeit this may be installed already... seems related to GrPC no idea really)
@@ -51,7 +51,7 @@ really fucking annoying
 
 * __fix__  with `brew install libusb`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDUyMTExMiwtMTk3NDEzNjM4OCwyMD
-MzNjczNDc4LC0xMTgyOTY3ODA4LC00OTgyODAyMTMsLTIwMjMz
-MDk3MzRdfQ==
+eyJoaXN0b3J5IjpbMTUzMDg0NjY4MSwxMTIwNTIxMTEyLC0xOT
+c0MTM2Mzg4LDIwMzM2NzM0NzgsLTExODI5Njc4MDgsLTQ5ODI4
+MDIxMywtMjAyMzMwOTczNF19
 -->
