@@ -50,6 +50,7 @@ irse - to leave
 salit - to go out (like a house 
 pararia 
 idea - eedeya idea
+temprano - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU0NzAwOTJdfQ==
+eyJoaXN0b3J5IjpbNjI3OTg5MDI3LC0xMzg1NDcwMDkyXX0=
 -->
