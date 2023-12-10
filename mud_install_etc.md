@@ -19,9 +19,12 @@ this is pretty broken as it goes, the quickstart docs aren't right. (there is an
 
 seems to be related to`mprocs` and how its is called by the `pnpm` process. For some reason it seems that it doesnt actually call it or perhaps it just doesn't pick up the config files, either way sucky.... 
 
+:warning:
+`mprocs` seems to install a ARM64 binary when run from `pnpm` on an `x86` machine.
+
 workaround is:
  
-needs also:
+needs alsoinstall deps:
 * install `forge` might not even need this as it should be `pnpm`'d
 * install `mprocs`
 	* `brew install mprocs`
@@ -33,7 +36,7 @@ needs also:
 3. `mprocs --config ./mprocs.yaml`
 4. goto `localhost:3000`
 
-
+5. receive :bacon:
 
 
 ## `pnpm build mud:next` errors
@@ -50,8 +53,10 @@ t in dyld cache)"
 really fucking annoying
 
 * __fix__  with `brew install libusb`
+
+## custom types in MUD table types
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDg0NjY4MSwxMTIwNTIxMTEyLC0xOT
-c0MTM2Mzg4LDIwMzM2NzM0NzgsLTExODI5Njc4MDgsLTQ5ODI4
-MDIxMywtMjAyMzMwOTczNF19
+eyJoaXN0b3J5IjpbMTQ4NDIzODEzLDE1MzA4NDY2ODEsMTEyMD
+UyMTExMiwtMTk3NDEzNjM4OCwyMDMzNjczNDc4LC0xMTgyOTY3
+ODA4LC00OTgyODAyMTMsLTIwMjMzMDk3MzRdfQ==
 -->
