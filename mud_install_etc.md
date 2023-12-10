@@ -56,7 +56,5 @@ really fucking annoying
 
 ## custom types in MUD table types
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDIzODEzLDE1MzA4NDY2ODEsMTEyMD
-UyMTExMiwtMTk3NDEzNjM4OCwyMDMzNjczNDc4LC0xMTgyOTY3
-ODA4LC00OTgyODAyMTMsLTIwMjMzMDk3MzRdfQ==
+eyJoaXN0b3J5IjpbMTQ4NDIzODEzXX0=
 -->
