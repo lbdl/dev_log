@@ -51,6 +51,8 @@ salit - to go out (like a house
 pararia 
 idea - eedeya idea
 temprano - 
+cansada
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3OTg5MDI3LC0xMzg1NDcwMDkyXX0=
+eyJoaXN0b3J5IjpbMjA1NzYxMjc3Niw2Mjc5ODkwMjcsLTEzOD
+U0NzAwOTJdfQ==
 -->
