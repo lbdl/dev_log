@@ -58,11 +58,12 @@ censura - censorship
 dictaduras - 
 cristianismo -
 pandillas - gangs 
+ni~
 
 
 			-- "Los Prisioneras" we are south american rockers --
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDA4NzA3MiwtMTMzNDc0OTI5NywtMj
-Y2ODU3OTIwLDI0NzEzNjk2MywxNjQ5MTMwMDUxLDYyNzk4OTAy
-NywtMTM4NTQ3MDA5Ml19
+eyJoaXN0b3J5IjpbMzA5NjQzNjExLC00NzQwODcwNzIsLTEzMz
+Q3NDkyOTcsLTI2Njg1NzkyMCwyNDcxMzY5NjMsMTY0OTEzMDA1
+MSw2Mjc5ODkwMjcsLTEzODU0NzAwOTJdfQ==
 -->
