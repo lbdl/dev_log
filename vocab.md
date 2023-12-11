@@ -57,11 +57,12 @@ demasiado ruidoso - too loud (place)
 censura - censorship
 dictaduras - 
 cristianismo -
+pandillas - gangs 
 
 
-			-- Los Prisioneras we are south american rockers --
+			-- "Los Prisioneras" we are south american rockers --
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ3NDkyOTcsLTI2Njg1NzkyMCwyND
-cxMzY5NjMsMTY0OTEzMDA1MSw2Mjc5ODkwMjcsLTEzODU0NzAw
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTQ3NDA4NzA3MiwtMTMzNDc0OTI5NywtMj
+Y2ODU3OTIwLDI0NzEzNjk2MywxNjQ5MTMwMDUxLDYyNzk4OTAy
+NywtMTM4NTQ3MDA5Ml19
 -->
