@@ -59,9 +59,9 @@ dictaduras -
 cristianismo -
 
 
-			Los Prisioneras we are soiuth american rockers
+			-- Los Prisioneras we are south american rockers --
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ5MTM3MjIsLTI2Njg1NzkyMCwyND
+eyJoaXN0b3J5IjpbLTEzMzQ3NDkyOTcsLTI2Njg1NzkyMCwyND
 cxMzY5NjMsMTY0OTEzMDA1MSw2Mjc5ODkwMjcsLTEzODU0NzAw
 OTJdfQ==
 -->
