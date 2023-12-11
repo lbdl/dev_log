@@ -57,7 +57,9 @@ demasiado ruidoso - too loud (place)
 censura - censorship
 dictaduras - 
 cristianismo -
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Njg1NzkyMCwyNDcxMzY5NjMsMTY0OT
-EzMDA1MSw2Mjc5ODkwMjcsLTEzODU0NzAwOTJdfQ==
+eyJoaXN0b3J5IjpbLTEwMTM4MDQ5NDYsLTI2Njg1NzkyMCwyND
+cxMzY5NjMsMTY0OTEzMDA1MSw2Mjc5ODkwMjcsLTEzODU0NzAw
+OTJdfQ==
 -->
