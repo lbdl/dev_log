@@ -47,12 +47,12 @@ es raro - its bizarre
 collegio - high school
 supongo - i guess
 irse - to leave
-salit - to go out (like a house 
+salir - to go out (like a house 
 pararia 
 idea - eedeya idea
 temprano - 
 cansado - tired 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTEzMDA1MSw2Mjc5ODkwMjcsLTEzOD
-U0NzAwOTJdfQ==
+eyJoaXN0b3J5IjpbLTUxNDQ4NjUyMywxNjQ5MTMwMDUxLDYyNz
+k4OTAyNywtMTM4NTQ3MDA5Ml19
 -->
