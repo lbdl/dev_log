@@ -52,8 +52,9 @@ pararia
 idea - eedeya idea
 temprano - 
 cansado - tired 
-demasiado fuerte - too loud (noise)
+demasiado fuerte - too loud (noise of thing)
+demasiado ruidoso - too loud (place)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU3MjA2NjcsMTY0OTEzMDA1MSw2Mj
-c5ODkwMjcsLTEzODU0NzAwOTJdfQ==
+eyJoaXN0b3J5IjpbMjQ3MTM2OTYzLDE2NDkxMzAwNTEsNjI3OT
+g5MDI3LC0xMzg1NDcwMDkyXX0=
 -->
