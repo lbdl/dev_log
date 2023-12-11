@@ -71,10 +71,13 @@ GUSTAR
 * me  ... va a gustar
 * me ... gustaría
 
+
+
+
 			-- "Los Prisioneras" we are south american rockers --
 			-- Caifanes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjkyNDEzOSwtNDc0MDg3MDcyLC0xMz
-M0NzQ5Mjk3LC0yNjY4NTc5MjAsMjQ3MTM2OTYzLDE2NDkxMzAw
-NTEsNjI3OTg5MDI3LC0xMzg1NDcwMDkyXX0=
+eyJoaXN0b3J5IjpbNDA0MzUzMzk3LDIwODI5MjQxMzksLTQ3ND
+A4NzA3MiwtMTMzNDc0OTI5NywtMjY2ODU3OTIwLDI0NzEzNjk2
+MywxNjQ5MTMwMDUxLDYyNzk4OTAyNywtMTM4NTQ3MDA5Ml19
 -->
