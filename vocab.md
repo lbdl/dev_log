@@ -54,8 +54,10 @@ temprano -
 cansado - tired 
 demasiado fuerte - too loud (noise of thing)
 demasiado ruidoso - too loud (place)
-
+censura - censorship
+dictaduras - 
+cristianismo -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTk2MTQyMywyNDcxMzY5NjMsMTY0OT
+eyJoaXN0b3J5IjpbLTI2Njg1NzkyMCwyNDcxMzY5NjMsMTY0OT
 EzMDA1MSw2Mjc5ODkwMjcsLTEzODU0NzAwOTJdfQ==
 -->
