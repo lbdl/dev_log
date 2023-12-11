@@ -72,13 +72,13 @@ GUSTAR
 * me ... gustaría
 
 
-revisit past. perfect ad imperfect
+TAREA revisit past. perfect and imperfect
 
 			-- "Los Prisioneras" we are south american rockers --
 			-- Caifanes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTcxNjMxMjYsMjA4MjkyNDEzOSwtND
-c0MDg3MDcyLC0xMzM0NzQ5Mjk3LC0yNjY4NTc5MjAsMjQ3MTM2
-OTYzLDE2NDkxMzAwNTEsNjI3OTg5MDI3LC0xMzg1NDcwMDkyXX
-0=
+eyJoaXN0b3J5IjpbMTU4MjgzMjE3OSwyMDgyOTI0MTM5LC00Nz
+QwODcwNzIsLTEzMzQ3NDkyOTcsLTI2Njg1NzkyMCwyNDcxMzY5
+NjMsMTY0OTEzMDA1MSw2Mjc5ODkwMjcsLTEzODU0NzAwOTJdfQ
+==
 -->
