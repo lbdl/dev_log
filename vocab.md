@@ -65,11 +65,12 @@ GUSTAR
 * me te le nos les gusta
 * me 	...		gustó
 * me  ... va a gustar
-me ... gustaría
+* me ... gustaría
 
 			-- "Los Prisioneras" we are south american rockers --
+			-- Caifanes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMTcxMDUzLC00NzQwODcwNzIsLTEzMz
-Q3NDkyOTcsLTI2Njg1NzkyMCwyNDcxMzY5NjMsMTY0OTEzMDA1
-MSw2Mjc5ODkwMjcsLTEzODU0NzAwOTJdfQ==
+eyJoaXN0b3J5IjpbLTQxMDM4NDU0MywtNDc0MDg3MDcyLC0xMz
+M0NzQ5Mjk3LC0yNjY4NTc5MjAsMjQ3MTM2OTYzLDE2NDkxMzAw
+NTEsNjI3OTg5MDI3LC0xMzg1NDcwMDkyXX0=
 -->
