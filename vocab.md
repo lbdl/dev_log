@@ -60,6 +60,7 @@ cristianismo -
 pandillas - gangs 
 niñez -
 de hecho - actually
+pedir -
 
 GUSTAR
 
@@ -71,7 +72,7 @@ GUSTAR
 			-- "Los Prisioneras" we are south american rockers --
 			-- Caifanes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODg2NzQ5MCwtNDc0MDg3MDcyLC0xMz
+eyJoaXN0b3J5IjpbLTI2Njc4NjUxMywtNDc0MDg3MDcyLC0xMz
 M0NzQ5Mjk3LC0yNjY4NTc5MjAsMjQ3MTM2OTYzLDE2NDkxMzAw
 NTEsNjI3OTg5MDI3LC0xMzg1NDcwMDkyXX0=
 -->
