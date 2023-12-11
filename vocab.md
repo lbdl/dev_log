@@ -54,7 +54,8 @@ temprano -
 cansado - tired 
 demasiado fuerte - too loud (noise of thing)
 demasiado ruidoso - too loud (place)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MTM2OTYzLDE2NDkxMzAwNTEsNjI3OT
-g5MDI3LC0xMzg1NDcwMDkyXX0=
+eyJoaXN0b3J5IjpbLTk4NTk2MTQyMywyNDcxMzY5NjMsMTY0OT
+EzMDA1MSw2Mjc5ODkwMjcsLTEzODU0NzAwOTJdfQ==
 -->
