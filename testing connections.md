@@ -3,6 +3,9 @@
 ## nc
 `nc -z -v [host] [port]`
 
+## ssh options
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDE4MjU5MSwtMzIwMDAzMTU3XX0=
+eyJoaXN0b3J5IjpbLTExMDU1MDc3NTMsLTQzNDE4MjU5MSwtMz
+IwMDAzMTU3XX0=
 -->
