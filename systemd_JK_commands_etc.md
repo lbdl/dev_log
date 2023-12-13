@@ -26,10 +26,12 @@ CI's jenkins
 	* `mv jenkins.war /usr/share/java/`
 * start the service:
 	* `systemctl start jenkins`
+* check its status:
+	* `systemctl status jenkins`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTU5ODMxMSwtMTQ4MDgxNzU3LDI1Mz
-A2NTc0N119
+eyJoaXN0b3J5IjpbOTE0ODQ0NzE3LC0xNDgwODE3NTcsMjUzMD
+Y1NzQ3XX0=
 -->
