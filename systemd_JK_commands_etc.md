@@ -23,9 +23,13 @@ CI's jenkins
 * move the war (after setting it executable):
 	* `sudo chown root:root jenkins.war`
 	* `sudo chmod 644 jenkins.war`
+	* `mv jenkins.war /usr/share/java/`
+* start the service:
+	* `systemctl start jenkins`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA4MTc1NywyNTMwNjU3NDddfQ==
+eyJoaXN0b3J5IjpbMTE1NTU5ODMxMSwtMTQ4MDgxNzU3LDI1Mz
+A2NTc0N119
 -->
