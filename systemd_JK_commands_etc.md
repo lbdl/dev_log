@@ -22,9 +22,10 @@ CI's jenkins
 	* `sudo systemctl stop jenkins`
 * move the war (after setting it executable):
 	* `sudo chown root:root jenkins.war`
+	* `sudo chmod 644 jenkins.war`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMDY1NzQ3XX0=
+eyJoaXN0b3J5IjpbLTE0ODA4MTc1NywyNTMwNjU3NDddfQ==
 -->
